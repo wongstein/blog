@@ -1,5 +1,8 @@
-
-# Conflict from a Underfunctioner/ Over Functioner Lens 
+---
+title: "Conflict from a Underfunctioner/ Over Functioner Lens"
+date: 2022-11-30T11:00:00-00:00
+draft: true
+---
 
 ## A Typical Presentation
 Here's a common Manager situation: 

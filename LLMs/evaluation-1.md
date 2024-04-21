@@ -1,4 +1,8 @@
-# Understanding Few shot Learning in Prompt Engineering
+---
+title: "Understanding Few shot Learning in Prompt Engineering"
+date: 2023-07-21T11:00:00-07:00
+draft: true
+---
 
 Prompt engineering is a crucial aspect of training language models (LLMs) effectively. One common technique is fewshot learning, where the prompt includes a few examples, aiming for the LLM to generalize from them. Let's delve into this technique using an illustrative example of scoring text controversy.
 Consider a project where we aim to assign a controversy score to texts. This score ranges from 0 to 10, indicating the level of controversy within the text. To illustrate this in a prompt, we provide several examples with their corresponding controversy scores:

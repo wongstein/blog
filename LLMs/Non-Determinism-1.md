@@ -1,4 +1,8 @@
-# Looking into Non-Determinism in GPT-4
+---
+title: "Looking into Non-Determinism in GPT-4"
+date: 2024-03-10T11:00:00-07:00
+draft: false
+---
 
 I recently got into a lively discussion on an exploratory client call about LLM applications and where they are useful.  As you may have read from me [before](../Precision-as-PM-Choice.md), the first thing I like to establish on projects is how precise the use case for this LLM application needs to be.
 
@@ -6,7 +10,7 @@ Let's just say we got sidetracked on the question of whether or not LLM's are ev
 
 And that bothered me.
 
-So of course I googled it, and found this [amazing read](https://Sherman Chann.github.io/blog/non-determinism-in-gpt-4/)
+So of course I googled it, and found this [amazing read](https://152334h.github.io/blog/non-determinism-in-gpt-4/
 
 ## The Central Tension: Is it Hardware or Software?
 

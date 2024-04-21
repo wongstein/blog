@@ -1,5 +1,8 @@
-# The Extraordinary Ineffectiveness of Prompt Engineering
-
+---
+title: "The Extraordinary Ineffectiveness of Prompt Engineering"
+date: 2024-04-20T11:00:00-07:00
+draft: false
+---
 Prompt Engineering + RAG has been all the rage.  Even now, when I google "Prompt Engineering" I get over 250 million results with a heavy mixture of both sales pitches and earnest explorations on no shot or few shot learning.
 
 Admittedly this blog title is extremely controversial, and I'm not here to deny that no shot or few shot learning exists.  
