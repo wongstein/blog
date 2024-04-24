@@ -1,7 +1,7 @@
 ---
 title: "Case Study: Using Weaker Models + Retry Logic"
 date: 2024-04-22T11:00:00-00:00
-draft: true
+draft: false
 ---
 
 One of the places that I find LLM applications to be GREAT (frankly) are cases where the client has few or no existing data and wants to apply the LLM to build up a dataset quickly.
